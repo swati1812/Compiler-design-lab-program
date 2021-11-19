@@ -1,2 +1,0 @@
-# Compiler-design-lab-program
-
